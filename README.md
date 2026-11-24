@@ -8,7 +8,7 @@
 ![Tiempo](https://img.shields.io/badge/tiempo-40%20min-FF9800?style=for-the-badge)
 ![Entrega](https://img.shields.io/badge/entrega-link%20de%20GitHub%20en%20Notion-0A66C2?style=for-the-badge&logo=github&logoColor=white)
 
-<img src="assets/nova-hangar.webp" width="460" alt="Nova y Kuma frente a la puerta del Hangar 3 con una lista de reparaciones">
+<img src="assets/nova-lectura.webp" width="360" alt="Nova lee en un sillón con audífonos mientras Kuma duerme a su lado">
 
 </div>
 
